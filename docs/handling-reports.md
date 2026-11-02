@@ -36,7 +36,7 @@ patches available soon after an announcement. Depending on the severity of the
 report we may need to figure out how to do private releases ahead of time.
 
 If we consider the vulnerability's severity to be medium or higher we need to
-post it to distros@lists.openwall.com **3 days** before the public
+post it to <distros@lists.openwall.com> **3 days** before the public
 announcement. [Read the instructions on how to do that carefully][distros], as
 they're pretty strict on what they want.
 
