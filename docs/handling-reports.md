@@ -92,7 +92,7 @@ This procedure was tested on a Linux system.
     gpg --verify ${file}.asc
     ```
 
-5. Send a mail to rustlang-security-announcements@googlegroups.com from your
+5. Send a mail to <rustlang-security-announcements@googlegroups.com> from your
    personal email address with the content of `announcement.txt.asc` as the
    message body. Also attach `announcement.txt.asc` to the same mail.
 
